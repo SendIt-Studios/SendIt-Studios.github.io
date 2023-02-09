@@ -1,7 +1,7 @@
 ---
 title: Kanak Attack Manoa
 ---
-* [Kanak Attack Manoa Organization](https://github.com/kanak-attack-manoa)
+* [SendIt Studios Organization](https://github.com/SendIt-Studios)
 * [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
 * [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 * [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
@@ -17,7 +17,7 @@ title: Kanak Attack Manoa
 
 ## Overview
 
-Kanak Attack is an app designed for the UH Manoa campus. It gives vendors the ability to maintain an active menu, update items, and list the availability of items. The user have the ability to view menu items, vendors, and the menu for each vendor. On top of that, they are also able to read reviews from other users and leave their own. The overall purpose of this app is to display available items around campus so the user can make a decision on what to eat based on their personal taste and availability.
+A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
 The system provides the following:
 
