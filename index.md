@@ -15,7 +15,7 @@ title: Kanak Attack Manoa
 * [Deployment](#deployment)
 * [Team Members](#team-members)
 
-## Overview
+## Overview![img.png](img.png)
 
 A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
