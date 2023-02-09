@@ -1,0 +1,10 @@
+title: test
+description: test
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-midnight
+github:
+  is_project_page: true
+  repository_url: https://github.com/sendit-studios/
+gems:
+  - jekyll-mentions
