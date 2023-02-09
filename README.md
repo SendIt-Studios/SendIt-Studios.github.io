@@ -1,1 +1,1 @@
-# sendit_studios.github.io
+# sendit-studios.github.io
