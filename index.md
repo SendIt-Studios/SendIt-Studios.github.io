@@ -35,7 +35,7 @@ This is a user guide for Kanak Attack Manoa.
 
 When arriving at the landing page, the user has the option to login to an existing account or create a new one. It also displays general information about the app in case the user is contemplating creating an account.
 
-<img src="public/images/landing.png">
+<img src="public/images/">
 
 ### Index pages
 
