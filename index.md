@@ -2,7 +2,7 @@
 title: Revenge of the Babies
 ---
 * [SendIt Studios Organization](https://github.com/SendIt-Studios)
-* [M3 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/3)
+* [M3 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1)
 * [M2 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/2)
 * [M1 Project Board](https://github.com/kanak-attack-manoa/kanak-attack-manoa/projects/1)
 
