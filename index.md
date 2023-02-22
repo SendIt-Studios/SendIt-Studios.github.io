@@ -2,6 +2,32 @@
 title: Revenge of the Babies
 ---
 
+<nav>
+    <ul>
+    {% for entry in site.data.navigation %}
+        {% if entry.url == current_page %}
+            {% assign current = ' class="current"' %}
+        {% else %}
+            <!-- We have to declare it 'null' to ensure it doesn't propagate. -->
+            {% assign current = null %}
+        {% endif %}
+        {% assign sublinks = entry.sublinks %}
+        {% if sublinks %}
+        <li{{ current }}>
+            <a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a>
+            <ul>
+                {% for sublink in sublinks %}
+                <li><a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </li>
+        {% else %}
+        <li{{ current }}><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></li>
+        {% endif %}
+    {% endfor %}
+    </ul>
+</nav>
+
 * [SendIt Studios Organization](https://github.com/SendIt-Studios)
 * [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1)
 
