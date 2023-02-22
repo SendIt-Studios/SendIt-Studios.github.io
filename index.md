@@ -11,7 +11,8 @@ title: Revenge of the Babies
 * [Milestones](#milestones)
 * [Team Members](#team-members)
 
-## Overview![img.png](public/images/img.png)
+## Overview
+![img.png](public/images/img.png)
 
 A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
@@ -36,5 +37,6 @@ The system provides the following:
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
 
-![ci-badge](https://github.com/kanak-attack-manoa/kanak-attack-manoa/workflows/ci-kanak-attack-manoa/badge.svg)
+![Alt Text](public/images/baby_left.gif)
+![Alt Text](public/images/adult1_down.gif)
 
