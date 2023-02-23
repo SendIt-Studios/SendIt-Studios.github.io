@@ -23,7 +23,21 @@ The system provides the following:
 * Use the environment to find ways to get the candy
 * Use your arsenal to distract or confuse the adults to leave candy vulnerable
 
+## Bad Bay Sprites
 
+Bad baby will have a variety of items to collect and use.
+
+![Alt Text](public/images/baby_left.gif)
+![Alt Text](public/images/baby_right.gif)
+![Alt Text](public/images/baby_up.gif)
+![Alt Text](public/images/baby_down.gif)
+
+## Mad Dad Sprites
+
+One of the enemies seeking to capture bad baby.
+
+![Alt Text](public/images/adult1_up.gif)
+![Alt Text](public/images/adult1_down.gif)
 
 
 ## Team Members
@@ -35,5 +49,3 @@ The system provides the following:
     * [Portfolio](https://gavinh123.github.io/)
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
-
-
