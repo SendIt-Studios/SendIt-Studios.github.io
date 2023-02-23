@@ -24,7 +24,17 @@ The system provides the following:
 * Use your arsenal to distract or confuse the adults to leave candy vulnerable
 * Controls:
 
-## User Guide
+## Bad Baby Sprite
+
+![Alt Text](public/images/baby_left.gif)
+![Alt Text](public/images/baby_right.gif)
+![Alt Text](public/images/baby_up.gif)
+![Alt Text](public/images/baby_down.gif)
+
+## Mad Dad Sprites
+
+![Alt Text](public/images/adult1_down.gif)
+![Alt Text](public/images/baby_up.gif)
 
 
 ## Team Members
