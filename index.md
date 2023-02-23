@@ -47,6 +47,4 @@ The system provides the following:
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
 
-![Alt Text](public/images/baby_left.gif)
-![Alt Text](public/images/adult1_down.gif)
 
