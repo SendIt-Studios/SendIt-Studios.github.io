@@ -28,7 +28,7 @@ The system provides the following:
 * Use the environment to find ways to get the candy
 * Use your arsenal to distract or confuse the adults to leave candy vulnerable
 
-## Bad Bay Sprites
+## Bad Baby Sprites
 
 Bad baby will have a variety of items to collect and use.
 
