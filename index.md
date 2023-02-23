@@ -11,8 +11,8 @@ title: Revenge of the Babies
 * [Milestones](#milestones)
 * [Team Members](#team-members)
 
-## Overview
-![img.png](public/images/img.png)
+## Overview!
+[img.png](public/images/image.png)
 
 A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
@@ -22,19 +22,8 @@ The system provides the following:
 * Characters are looking for you so be stealthy
 * Use the environment to find ways to get the candy
 * Use your arsenal to distract or confuse the adults to leave candy vulnerable
-* Controls:
 
-## Bad Baby Sprite
 
-![Alt Text](public/images/baby_left.gif)
-![Alt Text](public/images/baby_right.gif)
-![Alt Text](public/images/baby_up.gif)
-![Alt Text](public/images/baby_down.gif)
-
-## Mad Dad Sprites
-
-![Alt Text](public/images/adult1_down.gif)
-![Alt Text](public/images/baby_up.gif)
 
 
 ## Team Members
