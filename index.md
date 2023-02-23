@@ -12,7 +12,7 @@ title: Revenge of the Babies
 * [Team Members](#team-members)
 
 ## Overview!
-[img.png](public/images/image.png)
+![img.png](public/images/image.png)
 
 A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
