@@ -14,6 +14,11 @@ title: Revenge of the Babies
 ## Overview!
 ![img.png](public/images/image.png)
 
+![img.png](public/images/image1.png)
+
+The Triangle represents a key, the blue square represents a candy, the red square represents a baby, and the green circle represents a dirty diaper.
+The evacuation area is the green box but is only accessible when the candy has been obtained.
+
 A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
 
 The system provides the following:
