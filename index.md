@@ -48,6 +48,7 @@ One of the enemies seeking to capture bad baby.
 ## Team Members
 * Nicholas Carr
     * [Portfolio](https://nicholasbcarr.github.io/)
+    ![img.png](public/images/nick.jpg)
 * Eric Song
     * [Portfolio](https://jeanne8879.github.io/)
 * Steven 
