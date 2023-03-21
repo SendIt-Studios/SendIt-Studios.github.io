@@ -58,6 +58,8 @@ The evacuation zone is always accessible, make sure you have thouroughly searche
 Arrow keys or a,w,s,d: crawl
 Space bar: throw diaper
 
+![img.png](public/images/diaper.png)
+
 ## Bad Baby Sprites
 
 Bad baby will have a variety of items to collect and use.
