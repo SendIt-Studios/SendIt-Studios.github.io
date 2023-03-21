@@ -53,7 +53,10 @@ Stealing back the candy the adults took from you (because of how easy it was) is
 
 The evacuation zone is always accessible, make sure you have thouroughly searched the map for everything you want before entering
 
+## Controls
 
+Arrow keys or a,w,s,d: crawl
+Space bar: throw diaper
 
 ## Bad Baby Sprites
 
