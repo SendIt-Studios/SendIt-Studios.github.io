@@ -19,28 +19,24 @@ As you move around the house, you'll encounter obstables, such as furniture and 
 
 ## How to Play
 
-
 As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
-
 <img class="ui right floated image" src="public/images/baby_img.png"> 
 
 ##
-
 With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
-
 <img class="ui right floated image" src="public/images/baby_diaper.png"> 
 
 ##
-
 The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
-
 <img class="ui right floated image" src="public/images/game_goal.png"> 
 
 ##
-
 Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
-
 <img class="ui right floated image" src="public/images/game_extract.png"> 
+
+##
+However if you get caught it is game over!
+<img class="ui right floated image" src="public/images/gameover.png"> 
 
 
 ## The Beginning Stages of Development: Storyboard
@@ -77,9 +73,10 @@ The patrolling parents that will be on alert to catch the baby out of its room.
 ![Alt Text](public/images/adult_1.png)
 ![Alt Text](public/images/adult_2.png)
 
-## Prototype
+## First Prototype
+The current state of our game and our very first protytype features a fully furnished home with two parents: Mom and Dad that patroll different areas. Candies are spread throughout the house and some require a key to collect.
 
-
+![Alt Text](public/images/prototype.png)
 
 ## Meet the Team!
 * Nicholas Carr: ICS Role tasked with developing game functionality
@@ -91,6 +88,6 @@ The patrolling parents that will be on alert to catch the baby out of its room.
 * Steven ICS Role tasked with developing game functionality
     * [Portfolio](https://sle417.github.io/)
     ![image](public/images/steven.jpg)
-* Gunwook: ACM Role tasked with creative tasks (Sprites, Assets, Powerups)
-    * [Portfolio](https://lumd2000.github.io/)
+* Gunwook: ACM Role tasked with creative work (Sprites, Assets, Powerups)
+    * [Portfolio](https://www.linkedin.com/in/gunwookbaik/))
     ![image](public/images/gunwook.jpg)
