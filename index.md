@@ -19,27 +19,25 @@ As you move around the house, you'll encounter obstables, such as furniture and 
 
 ## How to Play
 
+![img.png](public/images/baby_img.png) As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
 
+![img.png](public/images/baby_diaper.png) With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
 
-## Overview!
+![img.png](public/images/game_goal.png) The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
+
+![img.png](public/images/game_extract.png) Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
+
+## The Beginning Stages of Development: Storyboard
+
+The following are pictures of the earliest versions of our game. 
 ![img.png](public/images/image.png)
-
-![img.png](public/images/image1.png)
 
 The Triangle represents a key, the blue square represents a candy, the red square represents a baby, and the green circle represents a dirty diaper.
 The evacuation area is the green box but is only accessible when the candy has been obtained.
 
-A game where babies are seeking revenge against those who stole candy from them because it was "too easy"...
+![img.png](public/images/image1.png)
 
-The system provides the following:
-
-* Top down, 2D/3D view
-* Characters are looking for you so be stealthy
-* Use the environment to find ways to get the candy
-* Use your arsenal to distract or confuse the adults to leave candy vulnerable
-
-
-## Beggining Stages
+## 
 
 ![img.png](public/images/level_1.png)
 
