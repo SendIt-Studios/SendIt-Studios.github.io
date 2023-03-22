@@ -78,16 +78,17 @@ The patrolling parents that will be on alert to catch the baby out of its room.
 ![Alt Text](public/images/adult_2.png)
 
 
-## Team Members
-* Nicholas Carr
+
+## Meet the Team!
+* Nicholas Carr: ICS Role tasked with developing game functionality
     * [Portfolio](https://nicholasbcarr.github.io/)
     ![image](public/images/nick.jpg)
-* Eric Song
+* Eric Song ICS Role tasked with developing game functionality
     * [Portfolio](https://eric-song1773.github.io/)
     ![image](public/images/eric.jpg)
-* Steven 
+* Steven ICS Role tasked with developing game functionality
     * [Portfolio](https://sle417.github.io/)
     ![image](public/images/steven.jpg)
-* Gunwook
+* Gunwook: ACM Role tasked with creative tasks (Sprites, Assets, Powerups)
     * [Portfolio](https://lumd2000.github.io/)
     ![image](public/images/gunwook.jpg)
