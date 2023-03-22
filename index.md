@@ -87,17 +87,17 @@ One of the enemies seeking to capture bad baby.
 ## Team Members
 * Nicholas Carr
     * [Portfolio](https://nicholasbcarr.github.io/)
-    ![img.png](public/images/nick.jpg)
+    ![](public/images/nick.jpg)
     <img src="nick.jpg" width="100" height="100">
 * Eric Song
     * [Portfolio](https://eric-song1773.github.io/)
-    ![img.png](public/images/eric.jpg)
+    ![](public/images/eric.jpg)
     <img src="eric.jpg" width="100" height="100">
 * Steven 
     * [Portfolio](https://sle417.github.io/)
-    ![img.png](public/images/steven.jpg)
+    ![](public/images/steven.jpg)
     <img src="steven.jpg" width="100" height="100">
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
-    ![img.png](public/images/gunwook.jpg)
+    ![](public/images/gunwook.jpg)
     <img src="gunwook.jpg" width="100" height="100">
