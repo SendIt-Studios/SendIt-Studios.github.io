@@ -17,6 +17,9 @@ title: Revenge of the Babies
 
 As you move around the house, you'll encounter obstables, such as furniture and other objects that may obstruct your goal of stealing the sweet delicious candy. You'll need to search for hiding places to stay out of sight when your parents are nearby or use items you find along the way to distract, or slow down your parents. Special items and abilities are scattered around the house, some of which are locked behind a door so you'll need to strategize the best path to take.
 
+## How to Play
+
+
 
 ## Overview!
 ![img.png](public/images/image.png)
@@ -44,7 +47,7 @@ The Goal is to avoid the parents at all costs because if they catch you, its GAM
 
 ### Keys
 
-![img.png](public/images/key.png)
+![img.png](public/images/key.gif)
 
 Obtain keys to open the doors to access what is behind them.
 
