@@ -17,15 +17,15 @@ title: Revenge of the Babies
 
 As you move around the house, you'll encounter obstables, such as furniture and other objects that may obstruct your goal of stealing the sweet delicious candy. You'll need to search for hiding places to stay out of sight when your parents are nearby or use items you find along the way to distract, or slow down your parents. Special items and abilities are scattered around the house, some of which are locked behind a door so you'll need to strategize the best path to take.
 
-## How to Play
+### How to Play
 
-![img.png](public/images/baby_img.png) As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
+![img.png](public/images/baby_img.png) ## As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
 
-![img.png](public/images/baby_diaper.png) With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
+![img.png](public/images/baby_diaper.png) ## With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
 
-![img.png](public/images/game_goal.png) The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
+![img.png](public/images/game_goal.png) ## The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
 
-![img.png](public/images/game_extract.png) Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
+![img.png](public/images/game_extract.png) ## Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
 
 ## The Beginning Stages of Development: Storyboard
 
