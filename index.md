@@ -19,13 +19,13 @@ As you move around the house, you'll encounter obstables, such as furniture and 
 
 ### How to Play
 
-<img class="ui left floated image" src="public/images/baby_img.png"> As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
+<img class="ui right floated image" src="public/images/baby_img.png"> As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
 
-<img class="ui left floated image" src="public/images/baby_diaper.png"> With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
+<img class="ui right floated image" src="public/images/baby_diaper.png"> With the press of SPACE, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
 
-<img class="ui left floated image" src="public/images/game_goal.png"> The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
+<img class="ui right floated image" src="public/images/game_goal.png"> The goal of the game is to locate the sweet sweet candy. However some are behind locked doors, so you must search for items such as keys and other collectibles to help you steal the candy.
 
-<img class="ui left floated image" src="public/images/game_extract.png"> Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
+<img class="ui right floated image" src="public/images/game_extract.png"> Once you have collected all the candy possible, its up to you to escape at the extraction point to secure the goods!
 
 ## The Beginning Stages of Development: Storyboard
 
