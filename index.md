@@ -7,8 +7,8 @@ title: Revenge of the Babies
 
 ## Table of Contents
 * [Overview](#overview)
-* [User Guide](#user-guide)
-* [Milestones](#milestones)
+* [How to Play](#how-to-play)
+* [Storyboard](#the-beginning-stages)
 * [Team Members](#meet-the-team)
 
 ## Overview
