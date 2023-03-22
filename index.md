@@ -59,46 +59,23 @@ The evacuation area is the green box but is only accessible when the candy has b
 
 The Goal is to avoid the parents at all costs because if they catch you, its GAME OVER! Pay attention to where the candy is because there are tricks and traps throughout the map. Use your diaper to stun the enemies and make your escape if detected. Obtain the keys to open doors and obtain any candy that might be behind them.
 
-### Keys
+## Mischievous Baby Sprites
 
-![img.png](public/images/key.gif)
-
-Obtain keys to open the doors to access what is behind them.
-
-### Doors and Candy
-
-![img.png](public/images/door_and_candy.png)
-
-Stealing back the candy the adults took from you (because of how easy it was) is the reason you here, don't leave any behind!
-
-### Evacuation Zone
-
-![img.png](public/images/evac_zone.png)
-
-The evacuation zone is always accessible, make sure you have thouroughly searched the map for everything you want before entering
-
-## Controls
-
-Arrow keys or a,w,s,d: crawl
-Space bar: throw diaper
-
-![img.png](public/images/diaper.png)
-
-## Bad Baby Sprites
-
-Bad baby will have a variety of items to collect and use.
+The baby will have a variety of items to collect and use against the parents.
 
 ![Alt Text](public/images/baby_left.gif)
 ![Alt Text](public/images/baby_right.gif)
 ![Alt Text](public/images/baby_up.gif)
 ![Alt Text](public/images/baby_down.gif)
 
-## Mad Dad Sprites
+## Parent Sprites
 
 One of the enemies seeking to capture bad baby.
 
 ![Alt Text](public/images/adult1_up.gif)
 ![Alt Text](public/images/adult1_down.gif)
+![Alt Text](public/images/adult_1.png)
+![Alt Text](public/images/adult_2.png)
 
 
 ## Team Members
