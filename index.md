@@ -20,6 +20,7 @@ As you move around the house, you'll encounter obstables, such as furniture and 
 ## How to Play
 
 As a baby, you are able to move using the Arrow Keys: Up, Down, Left, Right OR with W, A, S, D. 
+
 <img class="ui right floated image" src="public/images/baby_img.png"> 
 
 
