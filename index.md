@@ -82,8 +82,11 @@ One of the enemies seeking to capture bad baby.
     * [Portfolio](https://nicholasbcarr.github.io/)
     ![img.png](public/images/nick.jpg)
 * Eric Song
-    * [Portfolio](https://jeanne8879.github.io/)
+    * [Portfolio](https://eric-song1773.github.io/)
+    ![img.png](public/images/eric.jpg)
 * Steven 
-    * [Portfolio](https://gavinh123.github.io/)
+    * [Portfolio](https://sle417.github.io/)
+    ![img.png](public/images/steven.jpg)
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
+    ![img.png](public/images/gunwook.jpg)
