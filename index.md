@@ -70,7 +70,7 @@ The baby will have a variety of items to collect and use against the parents.
 
 ## Parent Sprites
 
-One of the enemies seeking to capture bad baby.
+The patrolling parents that will be on alert to catch the baby out of its room.
 
 ![Alt Text](public/images/adult1_up.gif)
 ![Alt Text](public/images/adult1_down.gif)
