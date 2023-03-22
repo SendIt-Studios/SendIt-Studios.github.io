@@ -57,7 +57,7 @@ The evacuation area is the green box but is only accessible when the candy has b
 
 ![img.png](public/images/level_1.png)
 
-The Goal is to avoid the parents at all costs because if they catch you, its GAME OVER! Pay attention to where the candy is because there are tricks and traps throughout the map. Use your diaper to stun the enemies and make your escape if detected. Obtain the keys to open doors and obtain any candy that might be behind them.
+This was the first version of our Level 1 Scene that we drafted up. It featured the core functionality of the game such as character movement, parent patrolling, item collection, and an extraction point.
 
 ## Mischievous Baby Sprites
 
@@ -76,6 +76,8 @@ The patrolling parents that will be on alert to catch the baby out of its room.
 ![Alt Text](public/images/adult1_down.gif)
 ![Alt Text](public/images/adult_1.png)
 ![Alt Text](public/images/adult_2.png)
+
+## Prototype
 
 
 
