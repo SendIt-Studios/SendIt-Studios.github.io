@@ -11,6 +11,13 @@ title: Revenge of the Babies
 * [Milestones](#milestones)
 * [Team Members](#team-members)
 
+## Overview
+
+Revenge of the Babies is a top-down stealth based 2D game where you play as a mischievous baby with a sweet tooh. Your ultimate goal is to sneak around your home undetected by your parents, while trying to steal as much candy as possible and get to the extraction point. The game takes place in a cozy suburban home with different rooms to explore, such as the living room, kitchen, bedroom, and bathroom. Your parents will be patrolling the house, patrolling between different areas and occasionally stopping to look around, so you must use your brain and maneuver to avoid getting caught.
+
+As you move around the house, you'll encounter obstables, such as furniture and other objects that may obstruct your goal of stealing the sweet delicious candy. You'll need to search for hiding places to stay out of sight when your parents are nearby or use items you find along the way to distract, or slow down your parents. Special items and abilities are scattered around the house, some of which are locked behind a door so you'll need to strategize the best path to take.
+
+
 ## Overview!
 ![img.png](public/images/image.png)
 
@@ -81,12 +88,16 @@ One of the enemies seeking to capture bad baby.
 * Nicholas Carr
     * [Portfolio](https://nicholasbcarr.github.io/)
     ![img.png](public/images/nick.jpg)
+    <img src="nick.jpg" width="100" height="100">
 * Eric Song
     * [Portfolio](https://eric-song1773.github.io/)
     ![img.png](public/images/eric.jpg)
+    <img src="eric.jpg" width="100" height="100">
 * Steven 
     * [Portfolio](https://sle417.github.io/)
     ![img.png](public/images/steven.jpg)
+    <img src="steven.jpg" width="100" height="100">
 * Gunwook
     * [Portfolio](https://lumd2000.github.io/)
     ![img.png](public/images/gunwook.jpg)
+    <img src="gunwook.jpg" width="100" height="100">
