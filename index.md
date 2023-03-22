@@ -97,6 +97,6 @@ The current state of our game and our very first protytype features a fully furn
 * Steven ICS Role tasked with developing game functionality
     * [Portfolio](https://sle417.github.io/)
     ![image](public/images/steven.jpg)
-* Gunwook: ACM Role tasked with creative work (Sprites, Assets, Powerups)
+* Gunwook: ACM Role tasked with creative visual work (Sprites, Assets, Powerups)
     * [Portfolio](https://www.linkedin.com/in/gunwookbaik/))
     ![image](public/images/gunwook.jpg)
