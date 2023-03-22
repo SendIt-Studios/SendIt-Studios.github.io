@@ -46,6 +46,7 @@ However if you get caught it is game over!
 ## The Beginning Stages of Development: Storyboard
 
 The following are pictures of the earliest versions of our game. 
+
 ![img.png](public/images/image.png)
 
 The Triangle represents a key, the blue square represents a candy, the red square represents a baby, and the green circle represents a dirty diaper.
@@ -78,6 +79,7 @@ The patrolling parents that will be on alert to catch the baby out of its room.
 ![Alt Text](public/images/adult_2.png)
 
 ## First Prototype
+
 The current state of our game and our very first protytype features a fully furnished home with two parents: Mom and Dad that patroll different areas. Candies are spread throughout the house and some require a key to collect.
 
 ![Alt Text](public/images/prototype.png)
