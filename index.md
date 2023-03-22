@@ -9,7 +9,7 @@ title: Revenge of the Babies
 * [Overview](#overview)
 * [User Guide](#user-guide)
 * [Milestones](#milestones)
-* [Team Members](#team-members)
+* [Team Members](#meet-the-team)
 
 ## Overview
 
