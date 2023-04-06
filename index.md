@@ -6,9 +6,9 @@ title: Revenge of the Babies
 * [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1)
 
 ## Table of Contents
-* [How to Play](./how-to-play.md)
+* [How to Play](./how-to-play.html)
 * [Storyboard](#the-beginning-stages-of-development-storyboard)
-* [Team Members](./about-us.md)
+* [Team Members](./about-us.html)
 
 ## Overview
 
