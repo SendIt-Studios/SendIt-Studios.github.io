@@ -6,11 +6,11 @@ title: Revenge of the Babies
 
 * * *
 
-> As a baby, you are able to move using the Arrow Keys: *Up*, *Down*, *Left*, *Right* OR with *W*, *A*, *S*, *D*. 
+> As a baby, you are able to move using the Arrow Keys: **Up**, **Down**, **Left**, **Right** OR with **W**, **A**, **S**, **D**. 
 
 <img class="ui right floated image" src="public/images/baby_img.png"> 
 
-> With the press of *SPACE*, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
+> With the press of **SPACE**, you have the inate ability to shoot stink diaper projectiles towards a target. The target that is hit will be stunned for a short duration, buying you time to carryy out your mission.
 
 <img class="ui right floated image" src="public/images/baby_diaper.png"> 
 
