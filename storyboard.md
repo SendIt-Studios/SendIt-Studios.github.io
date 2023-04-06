@@ -2,6 +2,10 @@
 title: Revenge of the Babies
 ---
 
+<div style="text-align: right">  
+  <a href="https://sendit-studios.github.io/">Back to Home</a>  
+</div>
+
 # The Beginning Stages of Development: Storyboard
 
 * * *
