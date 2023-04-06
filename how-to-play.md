@@ -1,5 +1,5 @@
 ---
-title: Revenge Of The Babies
+title: Revenge of the Babies
 ---
 
 # How to Play
