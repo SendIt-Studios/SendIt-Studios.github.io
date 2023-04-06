@@ -2,7 +2,7 @@ title: Revenge of the Babies
 description: By Sendit Studios
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-minima
+theme: jekyll-theme-midnight
 github:
   is_project_page: true
   repository_url: https://github.com/sendit-studios/
