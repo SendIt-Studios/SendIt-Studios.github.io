@@ -2,7 +2,9 @@
 title: Revenge of the Babies
 ---
 
-<div style="text-align: right"> [Back to Home](./) </div>
+<div style="text-align: right">  
+  <a href="https://sendit-studios.github.io/">Back to Home</a>  
+</div>
 
 # How to Play
 
