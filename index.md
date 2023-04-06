@@ -3,13 +3,13 @@ title: Revenge of the Babies
 ---
 
 # Visit our Game Project
-* [SendIt Studios Organization](https://github.com/SendIt-Studios)
-* [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1)
+> [SendIt Studios Organization](https://github.com/SendIt-Studios)
+> [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1)
 
 # Table of Contents
-* [How to Play](./how-to-play.html)
-* [Development Storyboard](./storyboard.html)
-* [About Us](./about-us.html)
+> [How to Play](./how-to-play.html)
+> [Development Storyboard](./storyboard.html)
+> [About Us](./about-us.html)
 
 # Overview
 
