@@ -2,6 +2,8 @@
 title: Revenge of the Babies
 ---
 
+<div style="text-align: right"> [Back to Home](./) </div>
+
 # How to Play
 
 * * *
