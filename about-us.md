@@ -1,8 +1,8 @@
 ---
-title: About Us
+title: Revenge of the Babies
 ---
 
-## Meet the Team!
+## Meet the Team
 * Nicholas Carr: ICS Role tasked with developing game functionality
     * [Portfolio](https://nicholasbcarr.github.io/)
     ![image](public/images/nick.jpg)
