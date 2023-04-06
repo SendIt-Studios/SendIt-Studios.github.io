@@ -19,15 +19,13 @@ title: Revenge of the Babies
 | * [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1) | * [Development Storyboard](./storyboard.html)|
 |                                                                                 | * [About Us](./about-us.html)                |
 
-<h1 style="text-align:center">Table of Contents</h1>
-
+<h2 style="text-align:center">Table of Contents</h2>
 |                                   |                                             |                             |
 |:----------------------------------|:--------------------------------------------|:----------------------------|
-| [How to Play](./how-to-play.html) | [Development Storyboard](./storyboard.html) | [About Us](./about-us.html) |
+| <h3 style="text-align:center"> <a href="https://sendit-studios.github.io/how-to-play.html">How to Play</a> </h3> | [Development Storyboard](./storyboard.html) | [About Us](./about-us.html) |
 
 
-<h1 style="text-align:center">Visit Our Game Project</h1>
-
+<h2 style="text-align:center">Visit Our Game Project</h2>
 |                                                                  |                                                                               |
 |:-----------------------------------------------------------------|:------------------------------------------------------------------------------|
 | [SendIt Studios Organization](https://github.com/SendIt-Studios) | [M1 Project Board](https://github.com/orgs/SendIt-Studios/projects/2/views/1) |
