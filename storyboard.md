@@ -4,6 +4,8 @@ title: Revenge of the Babies
 
 # The Beginning Stages of Development: Storyboard
 
+* * *
+
 > The following are pictures of the earliest versions of our game. 
 
 ![img.png](public/images/image.png)
