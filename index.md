@@ -22,7 +22,7 @@ title: Revenge of the Babies
 <h2 style="text-align:center">Table of Contents</h2>
 |                                   |                                             |                             |
 |:----------------------------------|:--------------------------------------------|:----------------------------|
-| <h3 style="text-align:center"> <a href="https://sendit-studios.github.io/how-to-play.html">How to Play</a> </h3> | [Development Storyboard](./storyboard.html) | [About Us](./about-us.html) |
+| <h3 style="text-align:center"><a href="https://sendit-studios.github.io/how-to-play.html">How to Play</a></h3> | [Development Storyboard](./storyboard.html) | [About Us](./about-us.html) |
 
 
 <h2 style="text-align:center">Visit Our Game Project</h2>
