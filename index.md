@@ -18,6 +18,8 @@ title: Revenge of the Babies
 
 # Overview
 
+* * *
+
 <img class="ui left floated image" src="public/images/titlescreen.jpg"> 
 
 > Revenge of the Babies is a top-down stealth based 2D game where you play as a mischievous baby with a sweet tooh. Your ultimate goal is to sneak around your home undetected by your parents, while trying to steal as much candy as possible and get to the extraction point. The game takes place in a cozy suburban home with different rooms to explore, such as the living room, kitchen, bedroom, and bathroom. Your parents will be patrolling the house, patrolling between different areas and occasionally stopping to look around, so you must use your brain and maneuver to avoid getting caught.
