@@ -40,7 +40,9 @@ title: Revenge of the Babies
 <div style="text-align:center;">
   <a href="https://sendit-studios.github.io/Build/index.html" style="display:inline-block; background-color:#333; color:#fff; padding:10px 20px; font-size:24px; text-decoration:none;">Play Now</a>
 </div>
+
 * * *
+
 > Revenge of the Babies is a top-down stealth based 2D game where you play as a mischievous baby with a sweet tooh. Your ultimate goal is to sneak around your home undetected by your parents, while trying to steal as much candy as possible and get to the extraction point. The game takes place in a cozy suburban home with different rooms to explore, such as the living room, kitchen, bedroom, and bathroom. Your parents will be patrolling the house, patrolling between different areas and occasionally stopping to look around, so you must use your brain and maneuver to avoid getting caught.
 > 
 > As you move around the house, you'll encounter obstables, such as furniture and other objects that may obstruct your goal of stealing the sweet delicious candy. You'll need to search for hiding places to stay out of sight when your parents are nearby or use items you find along the way to distract, or slow down your parents. Special items and abilities are scattered around the house, some of which are locked behind a door so you'll need to strategize the best path to take.
