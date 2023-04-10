@@ -36,7 +36,7 @@ title: Revenge of the Babies
 <img class="ui left floated image" src="public/images/titlescreen.jpg"> 
 
 <div style="text-align:center;">
-  <a href="https://sendit-studios.github.io/Build/index.html" style="display:inline-block; background-color:#333; color:#fff; padding:10px 20px; font-size:24px; text-decoration:none;">Play Now</a>
+  <a href="https://sendit-studios.github.io/Build/index.html" style="display:inline-block; background-color:#fc0; color:#000; padding:10px 20px; font-size:24px; text-decoration:none;">Play Now</a>
 </div>
 
 * * *
