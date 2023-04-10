@@ -41,4 +41,7 @@ title: Revenge of the Babies
 > 
 > As you move around the house, you'll encounter obstables, such as furniture and other objects that may obstruct your goal of stealing the sweet delicious candy. You'll need to search for hiding places to stay out of sight when your parents are nearby or use items you find along the way to distract, or slow down your parents. Special items and abilities are scattered around the house, some of which are locked behind a door so you'll need to strategize the best path to take.
 
-* [Play The Game](./Build/game.html)
+<button>
+  <a href="https://sendit-studios.github.io/Build/index.html" target="_blank">Play Our Game</a>
+</button>
+
