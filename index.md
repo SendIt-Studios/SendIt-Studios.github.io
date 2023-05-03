@@ -17,7 +17,7 @@ title: Revenge of the Babies
 <img class="ui left floated image" src="public/images/titlescreen.jpg"> 
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe width="700" height="315" src="https://www.youtube.com/embed/fho4ppORaBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  <iframe width="650" height="315" src="https://www.youtube.com/embed/fho4ppORaBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div style="text-align:center;">
